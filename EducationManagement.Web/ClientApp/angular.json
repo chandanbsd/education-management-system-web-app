@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "EducationManagement.Web"
+  "defaultProject": "EducationManagement.Web",
+  "cli": {
+    "analytics": "e0bfc5c6-8c5b-4b3f-9cb7-c282142a8a85"
+  }
 }

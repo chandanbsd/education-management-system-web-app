@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chandanbsd/RiderProjects/education-management-system-web-app/EducationManagement.BFF/EducationManagement.BFF.csproj": {}
+    "/Users/chandanbsd/Projects/education-management-system-web-app/EducationManagement.BFF/EducationManagement.BFF.csproj": {}
   },
   "projects": {
-    "/Users/chandanbsd/RiderProjects/education-management-system-web-app/EducationManagement.BFF/EducationManagement.BFF.csproj": {
+    "/Users/chandanbsd/Projects/education-management-system-web-app/EducationManagement.BFF/EducationManagement.BFF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chandanbsd/RiderProjects/education-management-system-web-app/EducationManagement.BFF/EducationManagement.BFF.csproj",
+        "projectUniqueName": "/Users/chandanbsd/Projects/education-management-system-web-app/EducationManagement.BFF/EducationManagement.BFF.csproj",
         "projectName": "EducationManagement.BFF",
-        "projectPath": "/Users/chandanbsd/RiderProjects/education-management-system-web-app/EducationManagement.BFF/EducationManagement.BFF.csproj",
+        "projectPath": "/Users/chandanbsd/Projects/education-management-system-web-app/EducationManagement.BFF/EducationManagement.BFF.csproj",
         "packagesPath": "/Users/chandanbsd/.nuget/packages/",
-        "outputPath": "/Users/chandanbsd/RiderProjects/education-management-system-web-app/EducationManagement.BFF/obj/",
+        "outputPath": "/Users/chandanbsd/Projects/education-management-system-web-app/EducationManagement.BFF/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/chandanbsd/.nuget/NuGet/NuGet.Config"
