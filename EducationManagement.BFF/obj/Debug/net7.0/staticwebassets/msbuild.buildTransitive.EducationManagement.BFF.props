@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/EducationManagement.BFF.props" />
-</Project>
